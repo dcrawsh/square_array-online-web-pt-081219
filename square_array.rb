@@ -5,5 +5,6 @@ def square_array(array)
   new_array.push(square ** 2)
   
 end    
-  p new_array
+new_array
 end
+square_array(array)
