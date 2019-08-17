@@ -8,4 +8,5 @@ def square_array(array)
 end    
 new_array
 end
-p square_array(apples)
+square_array(apples)
+p new_array
