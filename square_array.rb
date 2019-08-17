@@ -9,4 +9,3 @@ end
 new_array
 end
 square_array(apples)
-p new_array
